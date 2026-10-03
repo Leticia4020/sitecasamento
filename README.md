@@ -36,7 +36,7 @@ O site possui:
 ---
 #### Organização de Arquivos
 
-index.html
+--index.html
 style.css
 branco.jpeg
 date.png
