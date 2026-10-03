@@ -36,24 +36,24 @@ O site possui:
 ---
 #### Organização de Arquivos
 
-index.html
-style.css
-branco.jpeg
-date.png
-festa.jpg
-imagem-central.jpeg
-imagem-central.jpg
-lugar.jpg
-mesa.jpeg
-mesa2.jpg
-netflix.jpg
-patrocinio.png
-rings.jpg
-rosas.jpg
-sapatos.jpeg
-veiculo.jpg
-viagem.jpg
-wedding-ring.png
+-index.html
+-style.css
+-branco.jpeg
+-date.png
+-festa.jpg
+-imagem-central.jpeg
+-imagem-central.jpg
+-lugar.jpg
+-mesa.jpeg
+-mesa2.jpg
+--netflix.jpg
+-patrocinio.png
+-rings.jpg
+-rosas.jpg
+-sapatos.jpeg
+-veiculo.jpg
+-viagem.jpg
+-wedding-ring.png
 
 O Arquivo html é a principal estrutura do site
 
