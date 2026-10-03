@@ -78,6 +78,11 @@ O Arquivo css é onde contém o todo o Desing e estilo do site
 
 E os arquivos img são as imagens do site
 
+---
+#### Responsividade
+
+O projeto utiliza recursos do Bootstrap para adaptar o conteúdo para diferentes tamanhos de tela. O menu e as colunas se reorganizam quando o site é acessado pelo celular.
+
 ````-*1.[]
 ()
 ![]()
