@@ -54,8 +54,9 @@ veiculo.jpg
 viagem.jpg
 wedding-ring.png
 
-o Arquivo html é 
-
+O Arquivo html é a principal estrutura do site
+O Arquivo css é onde contém o todo o Desing e estilo do site
+E os arquivos img são as imagens do site
 ````-*1.[]
 ()
 ![]()
