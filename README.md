@@ -30,7 +30,31 @@ O site possui:
 - img*text: Imagem com o texto ao lado da Direita
 - carossel: Um carrossel com imagens.
 - Brides: 3 Cards com diferentes itens e botões
-- chamada: 
+- chamada: confirmação de presença
+- Rodapé: mais informações
+
+---
+#### Organização de Arquivos
+index.html
+style.css
+branco.jpeg
+date.png
+festa.jpg
+imagem-central.jpeg
+imagem-central.jpg
+lugar.jpg
+mesa.jpeg
+mesa2.jpg
+netflix.jpg
+patrocinio.png
+rings.jpg
+rosas.jpg
+sapatos.jpeg
+veiculo.jpg
+viagem.jpg
+wedding-ring.png
+
+o Arquivo html é 
 
 ````-*1.[]
 ()
