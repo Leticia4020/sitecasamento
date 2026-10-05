@@ -90,6 +90,33 @@ as imagens contém atributo ALT
 
 títulos seguem maiores que outros textos
 
+---
+#### Decisões de UX 
+Decisões tomadas foram:
+
+- separar conteúdos em seções;
+- deixar de formas mais simples sem excesso de informações;
+
+---
+#### Dificuldades encontradas
+
+Uma dificuldade foi entender o bootstrap para que não houvesse excesso de códigos sem alterar de formas utilitárias do site. Modificar de forma estilizável também se teve dificuldade.
+
+Os problema foi resolvido após testes e lendo a documentação
+
+---
+#### Melhorias Futuras
+
+- Adicionar método de pagamento
+- Adicionar um banco de dados com a Lista de confirmados
+- Efeitos visuais na página
+- Cronometragem da data
+
+---
+
+
+
+
 
 
 
