@@ -115,12 +115,3 @@ Os problema foi resolvido após testes e lendo a documentação
 ---
 
 
-
-
-
-
-
-````-*1.[]
-()
-![]()
----
