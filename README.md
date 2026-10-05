@@ -83,6 +83,16 @@ E os arquivos img são as imagens do site
 
 O projeto utiliza recursos do Bootstrap para adaptar o conteúdo para diferentes tamanhos de tela. O menu e as colunas se reorganizam quando o site é acessado pelo celular.
 
+---
+#### Acessibilidade 
+
+as imagens contém atributo ALT
+
+títulos seguem maiores que outros textos
+
+
+
+
 ````-*1.[]
 ()
 ![]()
